@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694577487004",
+    "project_id": "zen-notebook",
+    "storage_bucket": "zen-notebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694577487004:android:b818a5debb1137254fe159",
+        "android_client_info": {
+          "package_name": "zen.soft.zen_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694577487004-6u7v96mptd0b42ufihvf7h8jdk1hvton.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt2JfJ1CjfCLmNcRjuPYf8GLqfZ_d0gi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694577487004-6u7v96mptd0b42ufihvf7h8jdk1hvton.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
